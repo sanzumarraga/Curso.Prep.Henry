@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+    color: blueviolet;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: coral;
+    padding: 50px;
+    border: cyan 1px solid;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
